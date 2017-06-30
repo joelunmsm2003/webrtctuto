@@ -1,0 +1,18 @@
+{
+  "name": "CBI",
+  "description": "Choose And Book It",
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/waqastudios/choose-fe.git"
+  },
+  "author": "Joel",
+  "license": "",
+  "homepage": "https://bitbucket.org/waqastudios/choose-fe",
+  "devDependencies": {
+    "browser-sync": "^2.11.0",
+    "connect-modrewrite": "^0.9.0"
+  },
+  "dependencies": {
+    "node-static": "^0.7.9"
+  }
+}
